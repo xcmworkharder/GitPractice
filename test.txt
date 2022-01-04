@@ -3,3 +3,4 @@ add zero line
 third add line
 first add line
 second new add line
+new mygit2 line
