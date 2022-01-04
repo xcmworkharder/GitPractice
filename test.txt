@@ -1,2 +1,3 @@
 test content
+add zero line
 first add line
